@@ -1,0 +1,1 @@
+cmd_/home/kote/openairinterface5g-91d8c892/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o :=  rm -f /home/kote/openairinterface5g-91d8c892/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o; ar rcsD /home/kote/openairinterface5g-91d8c892/cmake_targets/lte_build_oai/build/CMakeFiles/ue_ip/built-in.o

@@ -1,0 +1,56 @@
+<OAI_EMULATION>
+	<APPLICATION_CONFIG>
+		 <CUSTOMIZED_TRAFFIC>	 
+      		<!--	UPLINK	  --> 
+			<SOURCE_ID>1</SOURCE_ID> 		
+      		<TRANSPORT_PROTOCOL>udp</TRANSPORT_PROTOCOL> 
+			<FLOW_START_ms>500</FLOW_START_ms> <!-- not less than 310 --> 
+     		<FLOW_DURATION_ms>5000</FLOW_DURATION_ms> <!-- less than simu time - FLOW_START_ms  -->
+      		<IP_VERSION>ipv4</IP_VERSION> 
+      		<DESTINATION_ID>0</DESTINATION_ID>
+			<BACKGROUND_TRAFFIC>disable</BACKGROUND_TRAFFIC> <!-- options: enable, disable. If enable, it generates a background traffic corresponding to the traffic direction--> 
+      		<IDT_DIST>uniform</IDT_DIST> <!-- OPTIONS: no_customized_traffic (default), uniform, poission, gaussian, exponential, fixed, weibull, pareto, gamma, cauchy --> 
+      		<IDT_MIN_ms>50</IDT_MIN_ms>  
+      		<IDT_MAX_ms>50</IDT_MAX_ms>
+      
+			<SIZE_DIST>uniform</SIZE_DIST>  <!-- OPTIONS: no_customized_traffic (default), uniform, poission, gaussian, exponential, fixed, weibull, pareto, gamma, cauchy --> 
+      		<SIZE_MIN_byte>1500</SIZE_MIN_byte>  
+      		<SIZE_MAX_byte>1500</SIZE_MAX_byte>
+
+			<DESTINATION_PORT>8080</DESTINATION_PORT>
+  
+    	</CUSTOMIZED_TRAFFIC>
+	</APPLICATION_CONFIG>
+	
+<EMULATION_CONFIG>
+		<LOG>
+		<VERBOSITY>low</VERBOSITY>
+		<LEVEL>crit</LEVEL>
+		</LOG>
+		<EMULATION_TIME_ms>5600</EMULATION_TIME_ms>
+		
+		
+		<PERFORMANCE>
+			<METRICS>
+				<THROUGHPUT>enable</THROUGHPUT>
+				<LATENCY>disable</LATENCY>
+			</METRICS>
+
+			<LAYER>
+				<PHY>0</PHY>
+				<MAC>0</MAC>
+				<RLC>0</RLC>
+				<PDCP>0</PDCP>
+			</LAYER>
+
+			<LOG_EMU>
+				<DEBUG>0</DEBUG>
+			</LOG_EMU>		
+			<SEED>	
+				<SEED_VALUE>1</SEED_VALUE>
+			</SEED>
+		</PERFORMANCE>
+	</EMULATION_CONFIG>
+	<PROFILE>EURECOM</PROFILE>	
+
+</OAI_EMULATION>

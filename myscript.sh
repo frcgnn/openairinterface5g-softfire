@@ -1,0 +1,30 @@
+#!/bin/bash
+#################################################################################################################################################
+#Script         : to run the openairinterface 
+#
+#################################################################################################################################################
+
+# input parameter: number of frames 
+
+$1
+
+set_openair_env
+cecho "OPENAIR_DIR    = $OPENAIR_DIR" $green
+
+pkill oaisim
+rmmod ue_ip > /dev/null 2>&1
+echo_success "Bringup UE interface..."
+insmod  $OPENAIR_DIR/targets/bin/ue_ip.ko 
+
+ip route flush cache
+
+# Check table 200 lte in /etc/iproute2/rt_tables
+  fgrep lte /etc/iproute2/rt_tables  > /dev/null
+  if [ $? -ne 0 ]; then
+    bash -c echo "200 lte " >> /etc/iproute2/rt_tables
+  fi
+  ip rule add fwmark 1 table lte
+  ip route add default dev oip1 table lte
+
+exec /home/kote/openairinterface5g-91d8c892/targets/bin/oaisim.Rel10 -O /home/kote/openairinterface5g-91d8c892/targets/PROJECTS/GENERIC-LTE-EPC/CONF/enb.band7.generic.oaisim.local_mme.conf -AAWGN -y1 -b1 -BSTATIC -Q0 -u1 -URWALK -n$1 -Tscbr | tee /tmp/enb_ue_s1.log.txt
+ 

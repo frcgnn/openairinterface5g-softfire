@@ -1,0 +1,40 @@
+[ 18%] Built target LFDS
+[ 18%] Built target SIMU
+[ 27%] Built target SCHED_LIB
+[ 45%] Built target UTIL
+[ 54%] Built target ITTI
+[100%] Built target PHY
+Scanning dependencies of target pbchsim
+[100%] [100%] Building C object CMakeFiles/pbchsim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+Building C object CMakeFiles/pbchsim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:345:3: warning: implicit declaration of function ‘lte_param_init’ [-Wimplicit-function-declaration]
+   lte_param_init(n_tx,n_rx,transmission_mode,extended_prefix_flag,frame_type,Nid_cell,N_RB_DL,osf);
+   ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:112:15: warning: unused variable ‘dci_alloc’ [-Wunused-variable]
+   DCI_ALLOC_t dci_alloc[8];
+               ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:85:7: warning: unused variable ‘result’ [-Wunused-variable]
+   int result;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:785:13: warning: ignoring return value of ‘fscanf’, declared with attribute warn_unused_result [-Wunused-result]
+       fscanf(input_fd,"%s %s",input_val_str,input_val_str2);//&input_val1,&input_val2);
+             ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:596:8: warning: ‘num_pdcch_symbols’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     if (num_pdcch_symbols<3) {
+        ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:880:24: warning: ‘tx_lev2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+                10*log10((double)tx_lev2));
+                        ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:879:24: warning: ‘tx_lev1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+                10*log10((double)tx_lev1),
+                        ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:867:17: warning: ‘eNB2UE2’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+           printf("total_sinr %f\n",compute_sinr(eNB2UE,eNB2UE1,eNB2UE2,SNR,SNR+interf1,SNR+interf2,25));
+                 ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:867:17: warning: ‘eNB2UE1’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pbchsim.c:1097:11: warning: ‘output_fd’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     fclose(output_fd);
+           ^
+Linking C executable pbchsim
+[100%] Built target pbchsim

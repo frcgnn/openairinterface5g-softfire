@@ -1,0 +1,9 @@
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/api_network.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/api_user.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/api_usim.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/at_nas_ue.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/esm.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/ies.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/secu_cn.dir
+/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/util.dir

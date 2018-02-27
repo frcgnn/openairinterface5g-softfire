@@ -1,0 +1,558 @@
+Scanning dependencies of target LFDS
+[  0%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c.o
+[  0%] [  0%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_queue.c.o
+Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c.o
+Scanning dependencies of target SIMU
+[  0%] Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/random_channel.c.o
+Scanning dependencies of target ITTI
+[  0%] Scanning dependencies of target SCHED_LIB
+Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/intertask_interface.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c:8:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_query.c:34:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:49:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:60:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:67:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_new.c:85:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  0%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c.o
+[  9%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pusch_pc.c.o
+[  9%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_common.c.o
+[  9%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c:44:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_queue/lfds611_queue_delete.c:56:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[  9%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_get_and_put.c.o
+Scanning dependencies of target UTIL
+[  9%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/CLI/cli.c.o
+[  9%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_delete.c.o
+[  9%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c:51:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_new.c:62:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pusch_pc.c: In function ‘get_hundred_times_delta_IF_eNB’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pusch_pc.c:84:2: warning: #warning "This condition happens sometimes. Need more investigation" [-Wcpp]
+ #warning "This condition happens sometimes. Need more investigation" // navid
+  ^
+[  9%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c:8:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_ringbuffer/lfds611_ringbuffer_query.c:29:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c: In function ‘phy_procedures_eNB_TX’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c:1015:5: warning: implicit declaration of function ‘fill_dci’ [-Wimplicit-function-declaration]
+     fill_dci(DCI_pdu,sched_subframe,phy_vars_eNB);
+     ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c:1386:2: warning: implicit declaration of function ‘taus’ [-Wimplicit-function-declaration]
+  DLSCH_pdu[i] = (unsigned char)(taus()&0xff);
+  ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c:621:33: warning: variable ‘re_allocated’ set but not used [-Wunused-but-set-variable]
+   uint16_t input_buffer_length, re_allocated=0;
+                                 ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c: In function ‘phy_procedures_eNB_RX’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c:2429:11: warning: variable ‘pusch_active’ set but not used [-Wunused-but-set-variable]
+   uint8_t pusch_active = 0;
+           ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_eNb.c:2418:12: warning: variable ‘sect_id’ set but not used [-Wunused-but-set-variable]
+   uint32_t sect_id=0;
+            ^
+[ 18%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_get_and_set.c.o
+[ 18%] [ 18%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_delete.c.o
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/CLI/cli_cmd.c.o
+[ 18%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_ue.c.o
+[ 18%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/CLI/cli_server.c.o
+[ 18%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_link.c.o
+Scanning dependencies of target PHY
+[ 18%] Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/rangen_double.c.o
+[ 18%] [ 18%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pucch_pc.c.o
+[ 18%] [ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c.o
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/FIFO/pad_list.c.o
+Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/intertask_interface_dump.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c:34:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_slist/lfds611_slist_new.c:45:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_ue.c: In function ‘phy_procedures_UE_TX’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_procedures_lte_ue.c:906:13: warning: implicit declaration of function ‘taus’ [-Wimplicit-function-declaration]
+             ulsch_input_buffer[i]= (uint8_t)(taus()&0xff);
+             ^
+[ 27%] [ 27%] /home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:45:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:56:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:63:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_new.c:81:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pss.c.o
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/taus.c.o
+[ 27%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LISTS/list.c.o
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_query.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pucch_pc.c: In function ‘pucch_power_cntl’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/pucch_pc.c:49:11: warning: variable ‘harq_pid’ set but not used [-Wunused-but-set-variable]
+   uint8_t harq_pid;
+           ^
+[ 27%] [ 27%] Building C object CMakeFiles/SCHED_LIB.dir/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c.o
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/multipath_channel.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LISTS/list2.c.o
+Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_push_pop.c.o
+[ 27%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/sss.c.o
+[ 27%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LOG/log.c.o
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c: In function ‘fill_dci’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c:61:12: warning: unused variable ‘rballoc2’ [-Wunused-variable]
+   uint32_t rballoc2 = 0x000F;
+            ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c:57:11: warning: unused variable ‘cooperation_flag’ [-Wunused-variable]
+   uint8_t cooperation_flag = phy_vars_eNB->cooperation_flag;
+           ^
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c: In function ‘fill_dci_emos’:
+/home/kote/openairinterface5g-91d8c892/openair1/SCHED/phy_mac_stub.c:588:11: warning: unused variable ‘cooperation_flag’ [-Wunused-variable]
+   uint8_t cooperation_flag = phy_vars_eNB->cooperation_flag;
+           ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c:54:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_stack/lfds611_stack_delete.c:66:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[ 27%] [ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_delete.c.o
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/abstraction.c.o
+[ 27%] Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/backtrace.c.o
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_pop_push.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/memory_pools.c.o
+Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c.o
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_get_and_set.c.o
+/home/kote/openairinterface5g-91d8c892/common/utils/itti/memory_pools.c:57:0: warning: "CHARS_TO_UINT32" redefined [enabled by default]
+ #define CHARS_TO_UINT32(c1, c2, c3, c4) (((c1) << 24) | ((c2) << 16) | ((c3) << 8) | (c4))
+ ^
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/COMMON/platform_types.h:46:0,
+                 from /home/kote/openairinterface5g-91d8c892/common/utils/itti/assertions.h:34,
+                 from /home/kote/openairinterface5g-91d8c892/common/utils/itti/memory_pools.c:34:
+/home/kote/openairinterface5g-91d8c892/common/utils/itti/itti_types.h:44:0: note: this is the location of the previous definition
+ #define CHARS_TO_UINT32(c1, c2, c3, c4) (((c4) << 24) | ((c3) << 16) | ((c2) << 8) | (c1))
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c:51:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( disable : 4100 )
+ ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_new.c:62:0: warning: ignoring #pragma warning  [-Wunknown-pragmas]
+ #pragma warning( default : 4100 )
+ ^
+[ 27%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pilots.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_abstraction_test_helpers.c.o
+Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_freelist/lfds611_freelist_query.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/signals.c.o
+Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_free.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/TOOLS/multipath_tv_channel.c.o
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/RF/rf.c.o
+[ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_liblfds/lfds611_liblfds_aligned_malloc.c.o
+[ 27%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pilots_mbsfn.c.o
+[ 27%] [ 27%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_free.c.o
+Building C object CMakeFiles/ITTI.dir/home/kote/openairinterface5g-91d8c892/common/utils/itti/timer.c.o
+[ 36%] Building C object CMakeFiles/LFDS.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LFDS/liblfds6.1.1/liblfds611/src/lfds611_abstraction/lfds611_abstraction_malloc.c.o
+[ 45%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c.o
+[ 45%] [ 45%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/LOG/vcd_signal_dumper.c.o
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/MATH/oml.c.o
+Linking C static library libLFDS.a
+[ 45%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_modulation.c.o
+[ 45%] Built target LFDS
+[ 45%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_demodulation.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c: In function ‘new_eNB_dlsch’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_coding.c:200:7: warning: implicit declaration of function ‘put_harq_pid_in_freelist’ [-Wimplicit-function-declaration]
+       put_harq_pid_in_freelist(dlsch, i);
+       ^
+[ 45%] [ 45%] Linking C static library libITTI.a
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/MEM/mem_block.c.o
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG.c.o
+[ 45%] Linking C static library libSCHED_LIB.a
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/RF/dac.c.o
+[ 45%] Built target ITTI
+[ 45%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_create_dir.c.o
+[ 45%] Built target SCHED_LIB
+[ 45%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_detect_file.c.o
+[ 45%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_generate_report.c.o
+[ 45%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_llr_computation.c.o
+[ 45%] [ 45%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/power_control.c.o
+Building C object CMakeFiles/SIMU.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/RF/adc.c.o
+[ 45%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_parse_filename.c.o
+[ 54%] Linking C static library libSIMU.a
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_parse_XML.c.o
+[ 54%] Built target SIMU
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OCG/OCG_save_XML.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_decoding.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/client_traci_OMG.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dlsch_scrambling.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dci_tools.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c: In function ‘remove_node_entry’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c:138:20: warning: variable ‘toremove’ set but not used [-Wunused-but-set-variable]
+   node_list *tmp, *toremove;
+                    ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c: In function ‘remove_node’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c:262:7: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+   int found;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c: In function ‘find_node’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c:325:7: warning: variable ‘found’ set but not used [-Wunused-but-set-variable]
+   int found;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c: In function ‘reset_node_list’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/common.c:383:14: warning: unused variable ‘last’ [-Wunused-variable]
+   node_list *last = list;
+              ^
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/uci_tools.c.o
+[ 54%] [ 54%] [ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/grid.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pbch.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/lte_mcs.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/id_manager.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/job.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/dci.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/mobility_parser.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/phich.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pcfich.c.o
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg.c:57:0:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/../OMV/structures.h:47:0: warning: "NB_ANTENNAS_RX" redefined [enabled by default]
+ #define NB_ANTENNAS_RX  4
+ ^
+<command-line>:0:0: note: this is the location of the previous definition
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg.c: In function ‘set_new_mob_type’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg.c:304:20: warning: unused variable ‘prev_job’ [-Wunused-variable]
+   job_list *tmp2, *prev_job;
+                    ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg.c:304:13: warning: unused variable ‘tmp2’ [-Wunused-variable]
+   job_list *tmp2, *prev_job;
+             ^
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/omg_hashtable.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/rwalk.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/rwalk.c: In function ‘start_rwalk_generator’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/rwalk.c:55:26: warning: variable ‘pause_p’ set but not used [-Wunused-but-set-variable]
+   double cur_time = 0.0, pause_p, mean_pause, mean_travel;
+                          ^
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pucch.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/rwp.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/socket_traci_OMG.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/static.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c.o
+[ 54%] /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c: In function ‘sleep_steadystaterwp_node’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c:176:14: warning: unused variable ‘initial’ [-Wunused-variable]
+   static int initial = 1;
+              ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c: In function ‘move_steadystaterwp_node’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c:215:7: warning: unused variable ‘loc_num’ [-Wunused-variable]
+   int loc_num;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/steadystaterwp.c:212:14: warning: unused variable ‘initial’ [-Wunused-variable]
+   static int initial = 1;
+              ^
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/storage_traci_OMG.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/prach.c.o
+[ 54%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/pmch.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c.o
+[ 54%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace_hashtable.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c: In function ‘start_trace_generator’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c:58:7: warning: unused variable ‘immobile’ [-Wunused-variable]
+   int immobile = 0;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c: In function ‘sleep_trace_node’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c:238:23: warning: unused variable ‘distance’ [-Wunused-variable]
+   double journeytime, distance;
+                       ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace.c:238:10: warning: unused variable ‘journeytime’ [-Wunused-variable]
+   double journeytime, distance;
+          ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace_hashtable.c: In function ‘create_new_table’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OMG/trace_hashtable.c:61:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i;
+       ^
+[ 63%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OPT/probe.c.o
+[ 63%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/group_hopping.c.o
+[ 63%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_tx.c.o
+[ 63%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg.c.o
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/srs_modulation.c.o
+[ 72%] [ 72%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/drs_modulation.c.o
+[ 72%] /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c: In function ‘tx_throughput’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:64:7: warning: passing argument 4 of ‘logRecord_mt’ makes integer from pointer without a cast [enabled by default]
+       LOG_W("[src %d][dst %d][app %d] flow start time less than the simu time (start %d, duration %d, ctime %d)\n",
+       ^
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log.h:343:0,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg.h:69,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.h:48,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:48:
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:71:21: note: expected ‘int’ but argument is of type ‘char *’
+ public_log_if( void logRecord_mt(const char *file, const char *func, int line,int comp, int level, const char *format, ...);)
+                     ^
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:62:41: note: in definition of macro ‘public_log_if’
+ #        define public_log_if(x) extern x
+                                         ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:64:7: warning: passing argument 6 of ‘logRecord_mt’ makes pointer from integer without a cast [enabled by default]
+       LOG_W("[src %d][dst %d][app %d] flow start time less than the simu time (start %d, duration %d, ctime %d)\n",
+       ^
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log.h:343:0,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg.h:69,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.h:48,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:48:
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:71:21: note: expected ‘const char *’ but argument is of type ‘int’
+ public_log_if( void logRecord_mt(const char *file, const char *func, int line,int comp, int level, const char *format, ...);)
+                     ^
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:62:41: note: in definition of macro ‘public_log_if’
+ #        define public_log_if(x) extern x
+                                         ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c: In function ‘rx_goodput’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:97:7: warning: passing argument 4 of ‘logRecord_mt’ makes integer from pointer without a cast [enabled by default]
+       LOG_W("[src %d][dst %d][app %d] flow start time less than the simu time (start %d, duration %d, ctime %d)\n",
+       ^
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log.h:343:0,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg.h:69,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.h:48,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:48:
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:71:21: note: expected ‘int’ but argument is of type ‘char *’
+ public_log_if( void logRecord_mt(const char *file, const char *func, int line,int comp, int level, const char *format, ...);)
+                     ^
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:62:41: note: in definition of macro ‘public_log_if’
+ #        define public_log_if(x) extern x
+                                         ^
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:97:7: warning: passing argument 6 of ‘logRecord_mt’ makes pointer from integer without a cast [enabled by default]
+       LOG_W("[src %d][dst %d][app %d] flow start time less than the simu time (start %d, duration %d, ctime %d)\n",
+       ^
+In file included from /home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log.h:343:0,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg.h:69,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.h:48,
+                 from /home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_kpi.c:48:
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:71:21: note: expected ‘const char *’ but argument is of type ‘int’
+ public_log_if( void logRecord_mt(const char *file, const char *func, int line,int comp, int level, const char *format, ...);)
+                     ^
+/home/kote/openairinterface5g-91d8c892/openair2/X2AP/../UTIL/LOG/log_if.h:62:41: note: in definition of macro ‘public_log_if’
+ #        define public_log_if(x) extern x
+                                         ^
+Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_models.c.o
+[ 72%] [ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/ulsch_modulation.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/ulsch_demodulation.c.o
+[ 72%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_form.c.o
+[ 72%] Building C object CMakeFiles/UTIL.dir/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_rx.c.o
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_rx.c: In function ‘otg_rx_pkt’:
+/home/kote/openairinterface5g-91d8c892/openair2/UTIL/OTG/otg_rx.c:122:2: warning: #warning "LG: TODO think about multicast traffic" [-Wcpp]
+ #warning "LG: TODO think about multicast traffic"
+  ^
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/ulsch_coding.c.o
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/ulsch_decoding.c.o
+[ 72%] [ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/print_stats.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/rar_tools.c.o
+Linking C static library libUTIL.a
+[ 72%] Built target UTIL
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/initial_sync.c.o
+In file included from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SEQUENCE_OF.h:8:0,
+                 from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/MBSFN-SubframeConfigList.h:15,
+                 from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformationBlockType2.h:97,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/defs.h:35,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/defs.h:697,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_TRANSPORT/ulsch_decoding.c:43:
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: ‘union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u’ declared inside parameter list [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: ‘struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member’ declared inside parameter list [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/ofdm_mod.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/ofdm_mod.c: In function ‘PHY_ofdm_mod’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/ofdm_mod.c:121:10: warning: assignment from incompatible pointer type [enabled by default]
+     idft = idft1536;
+          ^
+[ 72%] [ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep.c.o
+[ 72%] [ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_ul.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/ul_7_5_kHz.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_mbsfn.c.o
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/freq_equalization.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep.c: In function ‘slot_fep’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep.c:79:9: warning: assignment from incompatible pointer type [enabled by default]
+     dft = dft1536;
+         ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_ul.c: In function ‘slot_fep_ul’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_ul.c:71:9: warning: assignment from incompatible pointer type [enabled by default]
+     dft = dft1536;
+         ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_mbsfn.c: In function ‘slot_fep_mbsfn’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/MODULATION/slot_fep_mbsfn.c:76:9: warning: assignment from incompatible pointer type [enabled by default]
+     dft = dft1536;
+         ^
+[ 72%] [ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_sync_time.c.o
+[ 72%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_sync_timefreq.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_adjust_sync.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_dl_mbsfn_channel_estimation.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation.c: In function ‘lte_dl_channel_estimation’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_dl_channel_estimation.c:724:10: warning: assignment from incompatible pointer type [enabled by default]
+     idft = idft1536;
+          ^
+In file included from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SEQUENCE_OF.h:8:0,
+                 from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/MBSFN-SubframeConfigList.h:15,
+                 from /home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformationBlockType2.h:97,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/defs.h:35,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/defs.h:697,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/defs.h:32,
+                 from /home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_sync_time.c:36:
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: ‘union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u’ declared inside parameter list [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: its scope is only this definition or declaration, which is probably not what you want [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:62:10: warning: ‘struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member’ declared inside parameter list [enabled by default]
+    union SystemInformation_r8_IEs__sib_TypeAndInfo__Member_u {
+          ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/asn_SET_OF.h:17:16: note: in definition of macro ‘A_SET_OF’
+   void (*free)(type *);   \
+                ^
+/home/kote/openairinterface5g-91d8c892/cmake_targets/lte-simulators/build/CMakeFiles/Rel10/SystemInformation-r8-IEs.h:60:3: note: in expansion of macro ‘A_SEQUENCE_OF’
+   A_SEQUENCE_OF(struct SystemInformation_r8_IEs__sib_TypeAndInfo__Member {
+   ^
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_ul_channel_estimation.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_est_freq_offset.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/adjust_gain.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_dl_cell_spec.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c: In function ‘lte_ue_measurements’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c:575:66: warning: unused variable ‘mmtmpPMI3’ [-Wunused-variable]
+        __m128i pmi128_re,pmi128_im,mmtmpPMI0,mmtmpPMI1,mmtmpPMI2,mmtmpPMI3;
+                                                                  ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_ue_measurements.c:575:56: warning: unused variable ‘mmtmpPMI2’ [-Wunused-variable]
+        __m128i pmi128_re,pmi128_im,mmtmpPMI0,mmtmpPMI1,mmtmpPMI2,mmtmpPMI3;
+                                                        ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c: In function ‘lte_eNB_I0_measurements’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c:51:22: warning: pointer targets in initialization differ in signedness [-Wpointer-sign]
+   int32_t *rb_mask = phy_vars_eNB->rb_mask_ul;
+                      ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c:59:7: warning: unused variable ‘Nsymb’ [-Wunused-variable]
+   int Nsymb = (frame_parms->Ncp==NORMAL)?14:12;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_ESTIMATION/lte_eNB_measurements.c:53:17: warning: unused variable ‘rx_power_correction’ [-Wunused-variable]
+   uint32_t aarx,rx_power_correction;
+                 ^
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_dl_uespec.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_gold.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_gold_mbsfn.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_dl_mbsfn.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/LTE_REFSIG/lte_ul_ref.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/lte_segmentation.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/ccoding_byte.c.o
+[ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/ccoding_byte_lte.c.o
+[ 81%] [ 81%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/crc_byte.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/3gpplte_sse.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_8bit.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/3gpplte_turbo_decoder_sse_16bit.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/lte_rate_matching.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/rate_matching.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/viterbi.c.o
+[ 90%] [ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/CODING/viterbi_lte.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_parms.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c: In function ‘phy_config_sib2_eNB’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c:132:11: warning: unused variable ‘rx_total_gain_eNB_dB’ [-Wunused-variable]
+   int32_t rx_total_gain_eNB_dB        = PHY_vars_eNB_g[Mod_id][CC_id]->rx_total_gain_eNB_dB;
+           ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c:131:21: warning: unused variable ‘eNB_UE_stats’ [-Wunused-variable]
+   LTE_eNB_UE_stats *eNB_UE_stats      = PHY_vars_eNB_g[Mod_id][CC_id]->eNB_UE_stats;
+                     ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c: In function ‘phy_config_dedicated_scell_eNB’:
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c:736:2: warning: #warning " phy_vars_eNB->physicalConfigDedicatedSCell_r10 does not exist in phy_vars_eNB" [-Wcpp]
+ #warning " phy_vars_eNB->physicalConfigDedicatedSCell_r10 does not exist in phy_vars_eNB"
+  ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c:690:16: warning: unused variable ‘physCellId_r10’ [-Wunused-variable]
+   PhysCellId_t physCellId_r10 = sCellToAddMod_r10->cellIdentification_r10->physCellId_r10;
+                ^
+/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_init.c:686:17: warning: unused variable ‘phy_vars_eNB’ [-Wunused-variable]
+   PHY_VARS_eNB *phy_vars_eNB = PHY_vars_eNB_g[Mod_id][CC_id];
+                 ^
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/INIT/lte_param_init.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/file_output.c.o
+[ 90%] [ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_dfts.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/log2_approx.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/cmult_sv.c.o
+[ 90%] [ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/cmult_vv.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/cdot_prod.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/signal_energy.c.o
+[ 90%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/dB_routines.c.o
+[ 90%] [100%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/sqrt.c.o
+Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/time_meas.c.o
+[100%] Building C object CMakeFiles/PHY.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lut.c.o
+Linking C static library libPHY.a
+[100%] Built target PHY
+[100%] Generating CMakeFiles/R10.5/s1ap_decoder.c, CMakeFiles/R10.5/s1ap_encoder.c, CMakeFiles/R10.5/s1ap_xer_print.c, CMakeFiles/R10.5/s1ap_compare.c, CMakeFiles/R10.5/s1ap_ies_defs.h
+[93mDidn't find any information element for message: S1ap-PrivateMessageIEs[0m
+[100%] Generating CMakeFiles/messages.xml
+[100%] Generating CMakeFiles/messages_xml.h
+Scanning dependencies of target dlsim
+[100%] [100%] Building C object CMakeFiles/dlsim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/dlsim.c.o
+Building C object CMakeFiles/dlsim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/dlsim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/dlsim.c:643:3: warning: implicit declaration of function ‘lte_param_init’ [-Wimplicit-function-declaration]
+   lte_param_init(n_tx,
+   ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/dlsim.c:170:7: warning: variable ‘re_allocated’ set but not used [-Wunused-but-set-variable]
+   int re_allocated;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/dlsim.c:3484:18: warning: ‘form_ue’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+      phy_scope_UE(form_ue,
+                  ^
+Linking C executable dlsim
+[100%] Built target dlsim

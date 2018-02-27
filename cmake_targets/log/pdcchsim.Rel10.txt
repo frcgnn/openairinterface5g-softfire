@@ -1,0 +1,56 @@
+[ 18%] Built target LFDS
+[ 18%] Built target SIMU
+[ 36%] Built target UTIL
+[ 45%] Built target ITTI
+[ 54%] Built target SCHED_LIB
+[100%] Built target PHY
+Scanning dependencies of target pdcchsim
+[100%] [100%] Building C object CMakeFiles/pdcchsim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+Building C object CMakeFiles/pdcchsim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c: In function ‘get_dci’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:84:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI1_1_5MHz_TDD_t *)&DLSCH_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:105:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_1_5MHz_TDD_1_6_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:141:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_5MHz_TDD_1_6_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:177:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_10MHz_TDD_1_6_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:230:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI1_1_5MHz_FDD_t *)&DLSCH_alloc_pdu[0])->rballoc       = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:250:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_1_5MHz_FDD_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:284:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_5MHz_FDD_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:318:7: warning: large integer implicitly truncated to unsigned type [-Woverflow]
+       ((DCI0_10MHz_FDD_t*)&UL_alloc_pdu[0])->rballoc           = DLSCH_RB_ALLOC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:707:3: warning: implicit declaration of function ‘lte_param_init’ [-Wimplicit-function-declaration]
+   lte_param_init(n_tx,
+   ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:453:7: warning: variable ‘ret’ set but not used [-Wunused-but-set-variable]
+   int ret;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c: In function ‘get_dci’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:71:7: warning: ‘BCCH_pdu_size_bits’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+   int BCCH_pdu_size_bits, BCCH_pdu_size_bytes;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:384:39: warning: ‘UL_pdu_size_bits’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+       DCI_pdu.dci_alloc[2].dci_length = UL_pdu_size_bits;
+                                       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:375:37: warning: ‘dci_length’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     DCI_pdu.dci_alloc[1].dci_length = dci_length;
+                                     ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/pdcchsim.c:380:11: warning: ‘dci_length_bytes’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     memcpy((void*)&DCI_pdu.dci_alloc[1].dci_pdu[0], &DLSCH_alloc_pdu[0], dci_length_bytes);
+           ^
+Linking C executable pdcchsim
+[100%] Built target pdcchsim

@@ -1,0 +1,116 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_C
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachAccept.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachAccept.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachComplete.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachComplete.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachReject.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachReject.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AttachRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationFailure.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationFailure.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationReject.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationReject.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationResponse.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/AuthenticationResponse.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/CsServiceNotification.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/CsServiceNotification.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DetachAccept.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DetachAccept.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DetachRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DetachRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DownlinkNasTransport.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/DownlinkNasTransport.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/EmmInformation.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/EmmInformation.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/EmmStatus.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/EmmStatus.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ExtendedServiceRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ExtendedServiceRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/GutiReallocationCommand.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/GutiReallocationCommand.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/GutiReallocationComplete.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/GutiReallocationComplete.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/IdentityRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/IdentityRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/IdentityResponse.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/IdentityResponse.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeCommand.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeCommand.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeComplete.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeComplete.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeReject.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/SecurityModeReject.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ServiceReject.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ServiceReject.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ServiceRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/ServiceRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateAccept.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateAccept.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateComplete.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateComplete.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateReject.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateReject.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateRequest.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/TrackingAreaUpdateRequest.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/UplinkNasTransport.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/UplinkNasTransport.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/emm_msg.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG/emm_msg.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Attach.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Attach.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Authentication.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Authentication.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Detach.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Detach.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/EmmStatusHdl.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/EmmStatusHdl.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Identification.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/Identification.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/IdleMode.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/IdleMode.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/LowerLayer.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/LowerLayer.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregistered.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregistered.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttachNeeded.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttachNeeded.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttemptingToAttach.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredAttemptingToAttach.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredInitiated.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredInitiated.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredLimitedService.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredLimitedService.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoCellAvailable.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoCellAvailable.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoImsi.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNoImsi.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNormalService.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredNormalService.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredPlmnSearch.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmDeregisteredPlmnSearch.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmNull.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmNull.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegistered.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegistered.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredAttemptingToUpdate.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredAttemptingToUpdate.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredImsiDetachInitiated.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredImsiDetachInitiated.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredInitiated.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredInitiated.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredLimitedService.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredLimitedService.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredNoCellAvailable.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredNoCellAvailable.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredNormalService.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredNormalService.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredPlmnSearch.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredPlmnSearch.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredUpdateNeeded.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmRegisteredUpdateNeeded.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmServiceRequestInitiated.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmServiceRequestInitiated.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmTrackingAreaUpdatingInitiated.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/EmmTrackingAreaUpdatingInitiated.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_as.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_as.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_esm.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_esm.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_fsm.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_fsm.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_recv.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_recv.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_reg.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_reg.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_sap.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_sap.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_send.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP/emm_send.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SecurityModeControl.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SecurityModeControl.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/ServiceRequestHdl.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/ServiceRequestHdl.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/TrackingAreaUpdate.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/TrackingAreaUpdate.c.o"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/emm_main.c" "/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/emm.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/emm_main.c.o"
+  )
+SET(CMAKE_C_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+SET(CMAKE_TARGET_DEFINITIONS
+  "ENABLE_NAS_UE_LOGGING"
+  "ENB_MODE"
+  "FIRMWARE_VERSION=\"No svn information\""
+  "LINUX"
+  "NAS_UE"
+  "_GNU_SOURCE"
+  )
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# The include file search paths:
+SET(CMAKE_C_TARGET_INCLUDE_PATH
+  "/home/kote/openairinterface5g-91d8c892/common/utils/msc"
+  "/home/kote/openairinterface5g-91d8c892/common/utils"
+  "/home/kote/openairinterface5g-91d8c892/openair2/COMMON"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/EMM/MSG"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/EMM/SAP"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/IES"
+  "/home/kote/openairinterface5g-91d8c892/openair3/COMMON"
+  "/home/kote/openairinterface5g-91d8c892/openair3/SECU"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/src"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/API/NETWORK"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USER"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/ESM"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/ESM/SAP"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/ESM/MSG"
+  "/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/UTIL"
+  )
+SET(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+SET(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

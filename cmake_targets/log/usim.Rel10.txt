@@ -1,0 +1,24 @@
+Scanning dependencies of target usim
+[ 14%] [ 28%] [ 42%] [ 57%] [ 71%] [ 85%] [100%] Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM/usim_api.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/TOOLS/usim_data.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/UTIL/OctetString.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM/aka_functions.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/UTIL/memory.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/UTIL/TLVEncoder.c.o
+Building C object CMakeFiles/usim.dir/home/kote/openairinterface5g-91d8c892/openair3/NAS/COMMON/UTIL/nas_log.c.o
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM/usim_api.c: In function ‘usim_api_authenticate’:
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM/usim_api.c:292:2: warning: #warning "LG:BUG HERE TODO" [-Wcpp]
+ #warning "LG:BUG HERE TODO"
+  ^
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/UE/API/USIM/usim_api.c:294:10: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+         ((uint8_t*)(_usim_api_data.sqn_ms))[USIM_API_SQN_MS_SIZE - i];
+          ^
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/TOOLS/usim_data.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/TOOLS/usim_data.c:162:2: warning: #warning "IMSI 208.10.00001234" [-Wcpp]
+ #warning "IMSI 208.10.00001234"
+  ^
+/home/kote/openairinterface5g-91d8c892/openair3/NAS/TOOLS/usim_data.c:167:6: warning: #warning "IMSI 208.10.00001234" [-Wcpp]
+     #warning "IMSI 208.10.00001234"
+      ^
+Linking C executable usim
+[100%] Built target usim

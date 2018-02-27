@@ -1,0 +1,27 @@
+[ 16%] Built target LFDS
+[ 16%] Built target SIMU
+[ 33%] Built target UTIL
+[ 41%] Built target ITTI
+[ 50%] Built target SCHED_LIB
+[ 91%] Built target PHY
+Scanning dependencies of target prachsim
+[100%] [100%] Building C object CMakeFiles/prachsim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+Building C object CMakeFiles/prachsim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c:321:3: warning: implicit declaration of function ‘lte_param_init’ [-Wimplicit-function-declaration]
+   lte_param_init(n_tx,
+   ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c:439:3: warning: implicit declaration of function ‘dump_prach_config’ [-Wimplicit-function-declaration]
+   dump_prach_config(&PHY_vars_eNB->lte_frame_parms,subframe);
+   ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c:105:7: warning: variable ‘N_ZC’ set but not used [-Wunused-but-set-variable]
+   int N_ZC;
+       ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c:85:25: warning: variable ‘tx_lev_dB’ set but not used [-Wunused-but-set-variable]
+   uint32_t nsymb,tx_lev,tx_lev_dB;
+                         ^
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/prachsim.c:77:14: warning: variable ‘ntrials’ set but not used [-Wunused-but-set-variable]
+   int trial, ntrials=1;
+              ^
+Linking C executable prachsim
+[100%] Built target prachsim

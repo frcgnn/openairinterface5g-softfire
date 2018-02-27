@@ -1,0 +1,59 @@
+<OAI_EMULATION>
+
+	<APPLICATION_CONFIG>		
+		<CUSTOMIZED_TRAFFIC>	 
+			<!--	DOWNLINK	 -->      		
+			<SOURCE_ID>0</SOURCE_ID> 		
+      		<TRANSPORT_PROTOCOL>udp</TRANSPORT_PROTOCOL> <!-- OPTIONS: tcp (default), udp -->
+      		<IP_VERSION>ipv4</IP_VERSION> <!-- OPTIONS: ipv4 (default), ipv6 -->
+      		
+			<DESTINATION_ID>1</DESTINATION_ID>
+      		<FLOW_START_ms>500</FLOW_START_ms> <!-- indicates the start time of the app or the actual duration of the traffic-->
+      		<FLOW_DURATION_ms>5000</FLOW_DURATION_ms> <!-- indicates the start time of the app or the actual duration of the traffic-->
+
+      		<BACKGROUND_TRAFFIC>disable</BACKGROUND_TRAFFIC> <!-- options: enable, disable. If enable, it generates a background traffic corresponding to the traffic direction-->
+      		<IDT_DIST>uniform</IDT_DIST>  <!-- available distributions: none (default), uniform, poission, gaussian, exponential,pareto, cauchy,fixed, weibull, gammav-->
+      		<IDT_MIN_ms>50</IDT_MIN_ms>  <!--Minimum IDT values in milliseconds-->
+      		<IDT_MAX_ms>50</IDT_MAX_ms>  <!--Minimum IDT values in milliseconds-->
+      
+			<SIZE_DIST>uniform</SIZE_DIST>   <!-- available distributions: none (default), uniform, poission, gaussian, exponential,pareto, cauchy,fixed, weibull, gammav-->
+      		<SIZE_MIN_byte>1500</SIZE_MIN_byte>  <!--Minimum PAYLOAD size values in bytes-->
+      		<SIZE_MAX_byte>1500</SIZE_MAX_byte>  <!--MAximum PAYLOAD size values in bytes-->
+
+			<DESTINATION_PORT>80</DESTINATION_PORT>
+   		</CUSTOMIZED_TRAFFIC>
+	</APPLICATION_CONFIG>
+	
+	<EMULATION_CONFIG>
+		<LOG>
+		<VERBOSITY>low</VERBOSITY>
+		<LEVEL>crit</LEVEL>
+		</LOG>
+		<EMULATION_TIME_ms>20000</EMULATION_TIME_ms>
+		
+		
+		<PERFORMANCE>
+			<METRICS>
+				<THROUGHPUT>enable</THROUGHPUT>
+				<LATENCY>enable</LATENCY>
+				 <OWD_RADIO_ACCESS>enable</OWD_RADIO_ACCESS> 
+			</METRICS>
+
+			<LAYER>
+				<PHY>0</PHY>
+				<MAC>0</MAC>
+				<RLC>0</RLC>
+				<PDCP>0</PDCP>
+			</LAYER>
+
+			<LOG_EMU>
+				<DEBUG>0</DEBUG>
+			</LOG_EMU>		
+			<SEED>	
+				<SEED_VALUE>1</SEED_VALUE>
+			</SEED>
+		</PERFORMANCE>
+	</EMULATION_CONFIG>
+	<PROFILE>EURECOM</PROFILE>	
+
+</OAI_EMULATION>

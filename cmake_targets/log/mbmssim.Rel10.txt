@@ -1,0 +1,15 @@
+[ 16%] Built target LFDS
+[ 16%] Built target SIMU
+[ 33%] Built target UTIL
+[ 41%] Built target SCHED_LIB
+[ 50%] Built target ITTI
+[ 91%] Built target PHY
+Scanning dependencies of target mbmssim
+[100%] [100%] Building C object CMakeFiles/mbmssim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/mbmssim.c.o
+Building C object CMakeFiles/mbmssim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/mbmssim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/mbmssim.c:589:15: warning: too many arguments for format [-Wformat-extra-args]
+               mcs,N_RB_DL,mcs,N_RB_DL,trials);
+               ^
+Linking C executable mbmssim
+[100%] Built target mbmssim

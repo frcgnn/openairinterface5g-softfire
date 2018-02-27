@@ -1,0 +1,15 @@
+[ 18%] Built target LFDS
+[ 18%] Built target SIMU
+[ 36%] Built target UTIL
+[ 45%] Built target ITTI
+[ 54%] Built target SCHED_LIB
+[100%] Built target PHY
+Scanning dependencies of target ulsim
+[100%] [100%] Building C object CMakeFiles/ulsim.dir/home/kote/openairinterface5g-91d8c892/openair1/PHY/TOOLS/lte_phy_scope.c.o
+Building C object CMakeFiles/ulsim.dir/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/ulsim.c.o
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/ulsim.c: In function ‘main’:
+/home/kote/openairinterface5g-91d8c892/openair1/SIMULATION/LTE_PHY/ulsim.c:469:3: warning: implicit declaration of function ‘lte_param_init’ [-Wimplicit-function-declaration]
+   lte_param_init(1,
+   ^
+Linking C executable ulsim
+[100%] Built target ulsim

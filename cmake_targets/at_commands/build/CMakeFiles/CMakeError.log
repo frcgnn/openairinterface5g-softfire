@@ -1,0 +1,56 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec513800124/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec513800124.dir/build.make CMakeFiles/cmTryCompileExec513800124.dir/build
+make[1]: Entering directory `/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec513800124.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -msse4.2 -std=gnu99 -Wall -Wstrict-prototypes -fno-strict-aliasing -rdynamic -funroll-loops -Wno-packed-bitfield-compat -DCMAKER    -o CMakeFiles/cmTryCompileExec513800124.dir/CheckSymbolExists.c.o   -c /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTryCompileExec513800124
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec513800124.dir/link.txt --verbose=1
+/usr/bin/cc   -msse4.2 -std=gnu99 -Wall -Wstrict-prototypes -fno-strict-aliasing -rdynamic -funroll-loops -Wno-packed-bitfield-compat -DCMAKER     CMakeFiles/cmTryCompileExec513800124.dir/CheckSymbolExists.c.o  -o cmTryCompileExec513800124 -rdynamic 
+CMakeFiles/cmTryCompileExec513800124.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec513800124] Error 1
+make[1]: Leaving directory `/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec513800124/fast] Error 2
+
+File /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/make "cmTryCompileExec319156359/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec319156359.dir/build.make CMakeFiles/cmTryCompileExec319156359.dir/build
+make[1]: Entering directory `/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec319156359.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -msse4.2 -std=gnu99 -Wall -Wstrict-prototypes -fno-strict-aliasing -rdynamic -funroll-loops -Wno-packed-bitfield-compat -DCMAKER -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTryCompileExec319156359.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-2.8/Modules/CheckFunctionExists.c
+/usr/share/cmake-2.8/Modules/CheckFunctionExists.c:3:1: warning: function declaration isn’t a prototype [-Wstrict-prototypes]
+ char CHECK_FUNCTION_EXISTS();
+ ^
+Linking C executable cmTryCompileExec319156359
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec319156359.dir/link.txt --verbose=1
+/usr/bin/cc   -msse4.2 -std=gnu99 -Wall -Wstrict-prototypes -fno-strict-aliasing -rdynamic -funroll-loops -Wno-packed-bitfield-compat -DCMAKER -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTryCompileExec319156359.dir/CheckFunctionExists.c.o  -o cmTryCompileExec319156359 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTryCompileExec319156359] Error 1
+make[1]: Leaving directory `/home/kote/openairinterface5g-91d8c892/cmake_targets/at_commands/build/CMakeFiles/CMakeTmp'
+make: *** [cmTryCompileExec319156359/fast] Error 2
+
+
